@@ -58,6 +58,7 @@ class CustomToolbar extends Component {
             All
           </button>
         </span>
+        <span className="rbc-day-bg"></span>
         <span className="rbc-btn-group">
           <button
             type="button"
@@ -97,7 +98,7 @@ function mapDispatchToProps(dispatch) {
       pastEvents,
       upcomingEvents,
     },
-    dispatch,
+    dispatch
   );
 }
 
