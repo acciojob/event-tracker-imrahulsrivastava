@@ -1,11 +1,11 @@
 # Event Tracker
 
-# Create a Event Tracker Calendar where you can add, edit and delete events. 
+# Create a Event Tracker Calendar where you can add, edit and delete events.
 
-Also have 3 buttons  
+Also have 3 buttons
 
 - All(that shows all the events)
-- past(that shows past events) 
+- past(that shows past events)
 - upcoming (that shows upcoming events only)
 
 Upon clicking on a date, a create event popup should be displayed.
