@@ -58,7 +58,10 @@ class CustomToolbar extends Component {
             All
           </button>
         </span>
-        <span className="rbc-day-bg"></span>
+        <div
+          className="rbc-day-bg"
+          style={{ width: "10px", height: "10px", backgroundColor: "red" }}
+        ></div>
         <span className="rbc-btn-group">
           <button
             type="button"
